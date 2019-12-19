@@ -1,0 +1,65 @@
+{
+    "name": "Roomorama",
+    "description": "Stay in style. Accommodation and vacation rentals on demand.",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/915-roomorama.jpg",
+    "tags": [
+        "have api",
+        "marketplaces",
+        "rooms"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/roomorama\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "Roomorama",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/915-roomorama.jpg",
+            "humanURL": "https:\/\/roomorama.com",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-openapi",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/roomorama-openapi.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Base",
+            "url": "https:\/\/api.roomorama.com\/"
+        },
+        {
+            "type": "Blog",
+            "url": "http:\/\/blog.roomorama.com"
+        },
+        {
+            "type": "Crunchbase",
+            "url": "http:\/\/www.crunchbase.com\/company\/roomorama"
+        },
+        {
+            "type": "Crunchbase",
+            "url": "https:\/\/crunchbase.com\/organization\/roomorama"
+        },
+        {
+            "type": "Developers",
+            "url": "https:\/\/roomorama.com\/api"
+        },
+        {
+            "type": "Github",
+            "url": "https:\/\/github.com\/roomorama"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/roomorama"
+        },
+        {
+            "type": "Website",
+            "url": "https:\/\/roomorama.com"
+        }
+    ]
+}
